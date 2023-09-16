@@ -1,0 +1,16 @@
+* {
+   box-sizing: border-box;
+}
+
+
+.content {
+   width: 800px;
+   border: 1px solid black;
+   border-radius: 3px;
+   margin-bottom: 10px;
+}
+
+.target {
+   overflow: hidden;
+   transition: height 500ms ease 0s;
+}
